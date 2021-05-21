@@ -16,7 +16,7 @@ This is an implemention for our SIGIR 2021 paper "Causal Intervention for Levera
   [original data](https://www.kuaishou.com/activity/uimc);  [processing-code](/data/kwai) 
   
 + Douban(Movie): we provide the URL of original data. Please note that only the movies dataset is utilized. We also provide the preprocessing codes and the processed dataset. If you use this dataset,  you may need to cite the following paper as the dataset owners request:`` Song, Weiping, et al. "Session-based social recommendation via dynamic graph attention networks." WSDM 2019.``  
-  [original data](https://github.com/DeepGraphLearning/RecommenderSystems/blob/master/socialRec/README.md#douban-data); [processing-code](/data/douban); [processed data](https:xxxx)
+  [original data](https://github.com/DeepGraphLearning/RecommenderSystems/blob/master/socialRec/README.md#douban-data); [processing-code](/data/douban); [processed data](/data/douban)
 
 + Tencent: this is a private dataset.
 
