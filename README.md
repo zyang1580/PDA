@@ -27,6 +27,7 @@ Key parameters in train_new_api.py:
 + --train: model selection (normal:BPRMF/BPRMF-A | s_condition:PD/PDA | temp_pop:BPR(t)-pop).
 + --test: similar to train.
 + -- saveID: saved name flag.
++ --Ks: list, set top K.
 + others: others: read help, or "python xxx.py --help"
 
 ## Commands 
