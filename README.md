@@ -117,4 +117,4 @@ We provide the codes for BPRMF/BPR-PC/BPR(t)-pop implemented by ourselves.
 + Some codes are provided by the co-author [Tianxin Wei](https://github.com/weitianxin).
 
 ## Citation
-If you use the codes in your research, please cite our paper.
+If you use our codes in your research, please cite our paper.
