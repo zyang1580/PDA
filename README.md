@@ -112,7 +112,7 @@ We provide the codes for BPRMF/BPR-PC/BPR(t)-pop implemented by ourselves.
 ## Acknowledgments
 + The c++ evaluator implemented by [Neurec](https://github.com/wubinzzu/NeuRec) is used in some case.
 
-+ Some codes are provided by [Tianxin Wei](https://github.com/weitianxin).
++ Some codes are provided by the co-author [Tianxin Wei](https://github.com/weitianxin).
 
 ## Citation
 If you use the codes in your research, please cite our paper.
