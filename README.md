@@ -90,7 +90,7 @@ We provide the codes for BPRMF/BPR-PC/BPR(t)-pop implemented by ourselves.
    ````
    nohup python -u MF/train_new_api.py --dataset kwai --epoch 2000 --save_flag 0 --log_interval 5 --start 0 --end 10 --step 1 --batch_size 2048 --lr lr --train normal --test normal --saveID normal --cuda 1 --regs reg --valid_set valid > output.out &
    ````
-   When run BPRMF, it will run BPRMF-A synchronously.
+   When running BPRMF, it will run BPRMF-A synchronously.
  ##### 2. BPR-PC:
 + you need two steps:
   ````
