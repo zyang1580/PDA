@@ -11,7 +11,7 @@ This is an implemention for our SIGIR 2021 paper "Causal Intervention for Levera
 
 ## Datasets
 
-+ Kwai: we provide the URL of original data and the pre-processing codes ((not checked it)) for filtering and splitting it. We do not provide the processed Kwai dataset here because we don't make sure whether we have the right to open it. If you have difficulties getting it or process it, you can connect us.  
++ Kwai: we provide the URL of original data and the pre-processing codes (not checked) for filtering and splitting it. We do not provide the processed Kwai dataset here because we don't make sure whether we have the right to open it. If you have difficulties getting it or process it, you can connect us.  
   
   [original data](https://www.kuaishou.com/activity/uimc);  [processing-code](/data/kwai) 
   
