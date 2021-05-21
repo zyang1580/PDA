@@ -82,7 +82,7 @@ If you want to run PD and PDA on new datasets, you need:
  
  ### Baselines
 
-We provide the codes for BPRMF/BPR-PC/BPR(t) Pop implemented by ourselves. 
+We provide the codes for BPRMF/BPR-PC/BPR(t)-pop implemented by ourselves. 
  
  ##### 1. BPRMF/BPRMF-A:
  + run BPRMF/BPRMF-A:
