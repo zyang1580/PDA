@@ -63,7 +63,7 @@ If you want to run PD and PDA on new datasets, you need:
 ##### **3). Run PD/PDA**: 
 + Run the main command: 
   ````
-  nohup python -u MF/train_new_api.py --dataset kwai --epoch 2000 --save_flag 1 --log_interval 5 --start 0 --end 10 --step 1 --batch_size 2048 --lr 1e-2 --train condition --test condition --saveID condition --cuda 1 --regs 1e-2 --valid_set valid --pop_exp gamma > output.out &
+  nohup python -u MF/train_new_api.py --dataset kwai --epoch 2000 --save_flag 1 --log_interval 5 --start 0 --end 10 --step 1 --batch_size 2048 --lr 1e-2 --train s_condition --test s_condition --saveID s_condition --cuda 1 --regs 1e-2 --valid_set valid --pop_exp gamma > output.out &
   ````
   and tune the parameters.
 
