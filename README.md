@@ -11,11 +11,11 @@ This is an implemention for our SIGIR 2021 paper "Causal Intervention for Levera
 
 ## Datasets
 
-+ Kwai: we provide the URL of original data and the pre-processing codes for filtering and splitting it (we have not checked it). We do not provide the processed Kwai dataset here because we don't make sure whether we have the right to open it. If you have difficulties getting it or process it, you can connect us.  
++ Kwai: we provide the URL of original data and the pre-processing codes ((not checked it)) for filtering and splitting it. We do not provide the processed Kwai dataset here because we don't make sure whether we have the right to open it. If you have difficulties getting it or process it, you can connect us.  
   
   [original data](https://www.kuaishou.com/activity/uimc);  [processing-code](/data/kwai) 
   
-+ Douban(Movie): we provide the URL of original data. Please note that only the movies dataset is utilized. We also provide the preprocessing codes and the processed dataset. If you use this dataset,  you may need to cite the following paper as the dataset owners request:`` Song, Weiping, et al. "Session-based social recommendation via dynamic graph attention networks." WSDM 2019.``  
++ Douban(Movie): we provide the URL of original data. Please note that only the movies dataset is utilized. We also provide the preprocessing codes (not checked, please check it with the processed data) and the processed dataset. If you use this dataset,  you may need to cite the following paper as the dataset owners request:`` Song, Weiping, et al. "Session-based social recommendation via dynamic graph attention networks." WSDM 2019.``  
   [original data](https://github.com/DeepGraphLearning/RecommenderSystems/blob/master/socialRec/README.md#douban-data); [processing-code](/data/douban); [processed data](/data/douban)
 
 + Tencent: this is a private dataset.
