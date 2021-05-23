@@ -40,7 +40,7 @@ We provide two methods.
   python -u MF/simple_reproduce.py --dataset douban --epoch 2000 --save_flag 0 --log_interval 5 --start 0 --end 10 --step 1 --batch_size 2048 --lr 1e-2 --train s_condition --test s_condtion --saveID xxx --cuda 0 --regs 1e-2 --valid_set valid --pop_exp 0.22 --save_dir /home/PDA/save_model/ --Ks [20,50]
   ```
   And you need to change the 'pop_exp' for different datasets. (kwai:0.16, douban:0.22)
-+ The trained model can be download at this [URL](http:).
++ The trained model can be download at this [URL](https://rec.ustc.edu.cn/share/b716f720-bb97-11eb-bff9-03220af47344) (instruction in English for downloading can be found [here](/save_model/README.md)).
  
 #### 2. Start from Scratch:
 If you want to run PD and PDA on new datasets, you need:
