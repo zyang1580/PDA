@@ -1,6 +1,7 @@
 # PDA
 This is an implemention for our SIGIR 2021 paper "Causal Intervention for Leveraging Popularity Bias in Recommendation" based on tensorflow.
 
+This work was completed when Yang Zhang was an intern at [WeChat, Tencent](https://weixin.qq.com/).
 
 ## Requirements
 + tensorflow == 1.14
@@ -112,6 +113,7 @@ We provide the codes for BPRMF/BPR-PC/BPR(t)-pop implemented by ourselves.
  + Please read our paper about tuning the hyper-parameters.
 
 ## Acknowledgments
+
 + The c++ evaluator implemented by [Neurec](https://github.com/wubinzzu/NeuRec) is used in some case.
 
 + Some codes are provided by the co-author [Tianxin Wei](https://github.com/weitianxin).
