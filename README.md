@@ -22,7 +22,7 @@ This work was completed when Yang Zhang was an intern at [WeChat, Tencent](https
 
 + Tencent: this is a private dataset.
 
-## Paramters
+## Parameters
 Key parameters in train_new_api.py:
 + --pop_exp: gamma or $\tilde{gamma}$ in paper.
 + --train: model selection (normal:BPRMF/BPRMF-A | s_condition:PD/PDA | temp_pop:BPR(t)-pop).
