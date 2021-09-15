@@ -13,7 +13,7 @@ This work was completed when Yang Zhang was an intern at [WeChat, Tencent](https
 
 ## Datasets
 
-+ Kwai: we provide the URL of original data and the pre-processing codes (not checked) for filtering and splitting it. We do not provide the processed Kwai dataset here because we don't make sure whether we have the right to open it. If you have difficulties getting it or processing it, you can connect us.  
++ Kwai: we provide the URL of original data and the pre-processing codes (not checked) for filtering and splitting it. We do not provide the processed Kwai dataset here because we don't make sure whether we have the right to open it. If you have difficulties getting it or processing it, you can contact us.  
   
   [original data](https://www.kuaishou.com/activity/uimc);  [processing-code](/data/kwai) 
   
