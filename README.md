@@ -49,7 +49,7 @@ If you want to run PD and PDA on new datasets, you need:
 ##### **1). Split data**: 
 
 + Split the dataset into T stages by yourself and save each stage data as a file with the name like "t_0.txt". The files should have the following format in each line:
-```` user interacted_item1 interacted_item2 ... ````.
+```` item interacted_user1 interacted_user2 ... ````.
 + And you also need to save all training/testing/valid data in one file with a name such as "train_with_time.txt", and it should have the following format:
 ```` uid iid time stars ````, where time in [0,T-1]. 
   
