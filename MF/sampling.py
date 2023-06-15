@@ -31,7 +31,7 @@ def sampling_one_user(u):
     return {'user':users,'pos':pos_items,'neg':neg_items}
 
 
-def _batch_sampling(itr,pos_dict,neg_dict,tot_neg,batch_epoch,p_thre,item_max,neg_pro_dict):
+def _batch_sampling(itr, pos_dict, neg_dict, tot_neg, batch_epoch, p_thre, item_max, neg_pro_dict):
     '''
     subprocess
     :param itr:
